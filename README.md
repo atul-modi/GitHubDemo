@@ -53,15 +53,18 @@ GitHub with local files
 1. Install Git https://git-scm.com/downloads
 2. Right Click local directory-> open GIT Bash, enter the following command.
 
-git init
-git remote add origin https://github.com/manshu-dixithi/JECRC-Management.git
-git pull origin master
-git checkout -b yourname
-/* Modify The Code*?
-git add *
-git commit -m "Changes That You Have Made"
-git push origin yourname
+              git init
+              git remote add origin https://github.com/manshu-dixithi/JECRC-Management.git
+              git pull origin master
+              git checkout -b yourname
+              /* Modify The Code*?
+              git add *
+              git commit -m "Changes That You Have Made"
+              git push origin yourname
+              
 3. Create a Pull Request for the changes by your group members.
+
+
 
 
 
